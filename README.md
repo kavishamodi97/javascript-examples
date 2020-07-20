@@ -1,1 +1,1 @@
-Javascript examples
+Javascript examples for beginners
