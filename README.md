@@ -1,1 +1,1 @@
-Javascript examples for beginners
+Introduction of Javascript examples for beginners
